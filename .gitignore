@@ -15,9 +15,6 @@ front-end/dist
 front-end/tmp
 front-end/out-tsc
 
-# dependencies
-front-end/node_modules
-
 # IDEs and editors
 front-end/.idea
 front-end/.project
